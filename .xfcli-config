@@ -1,0 +1,8 @@
+{
+  "addon": {
+    "id": "ForcePasswordChanges",
+    "name": "ForcePasswordChanges",
+    "namespace": "ForcePasswordChanges",
+    "path": "library/ForcePasswordChanges/"
+  }
+}
